@@ -54,7 +54,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-3 text-gray-400">
               <li className="flex items-start space-x-3">
                 <span>📍</span>
-                <span>291 Royal St, New Jersey 45121</span>
+                <span>291 Royal Ave, Cherry Hill, NJ 08002</span>
               </li>
               <li className="flex items-start space-x-3">
                 <span>📞</span>

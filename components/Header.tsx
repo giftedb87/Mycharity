@@ -19,7 +19,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4">
         <div className="flex justify-between items-center py-2 md:py-1 border-b">
           <div className="text-sm text-gray-600">
-            <span>(239) 555-0108</span> | <span>291 Royal St, New Jersey 45121</span>
+            <span>(239) 555-0108</span> | <span>291 Royal Ave, Cherry Hill, NJ 08002</span>
           </div>
           <div className="flex items-center space-x-4">
             <a href="#" className="text-gray-600 hover:text-primary-yellow"><FacebookIcon /></a>

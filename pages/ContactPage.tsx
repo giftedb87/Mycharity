@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 
 const ContactPage: React.FC = () => {
@@ -71,7 +72,7 @@ const ContactPage: React.FC = () => {
             <div className="space-y-8">
                 <div className="bg-white p-8 rounded-lg shadow-lg">
                     <h3 className="text-xl font-bold text-dark-charcoal mb-4">Our Address</h3>
-                    <p className="text-gray-600">291 Royal St, New Jersey 45121, United States</p>
+                    <p className="text-gray-600">291 Royal Ave, Cherry Hill, NJ 08002, USA</p>
                 </div>
                  <div className="bg-white p-8 rounded-lg shadow-lg">
                     <h3 className="text-xl font-bold text-dark-charcoal mb-4">Contact Details</h3>
@@ -81,7 +82,7 @@ const ContactPage: React.FC = () => {
                 <div className="bg-white h-64 rounded-lg shadow-lg overflow-hidden">
                     <iframe
                         title="My Charity Location"
-                        src="https://maps.google.com/maps?q=291%20Royal%20St%2C%20New%20Jersey%2045121&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3058.465113959146!2d-75.0210293233801!3d39.93018287152178!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c134375a03c37d%3A0x4a4f8f4f20188961!2s291%20Royal%20Ave%2C%20Cherry%20Hill%2C%20NJ%2008002%2C%20USA!5e0!3m2!1sen!2s!4v1721327421379!5m2!1sen!2s"
                         width="100%"
                         height="100%"
                         style={{ border: 0 }}
